@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 
+=======
+nueva linea para probar conflicto
+>>>>>>> b67e1e55358bde88cee43da21b1423382d145a5f
